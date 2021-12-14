@@ -1,0 +1,651 @@
+/*---- XL Device :1200px----- */
+@media (min-width: 1450px) and (max-width: 1600px) {
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+
+}
+
+
+/*---- LG Device :992px----- */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .pr-122 {
+        padding-right: 40px;
+    }
+
+    .pl-122 {
+        padding-left: 35px;
+    }
+
+    .author-img img {
+        width: 80%;
+    }
+
+    .home-left h1 {
+        font-size: 65px;
+        line-height: 68px;
+    }
+
+    .home-left p {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    .home-left {
+        margin-top: 190px;
+    }
+
+    .top-mid img {
+        width: 90px;
+    }
+
+    .top-mid {
+        top: 70px;
+        left: 360px;
+    }
+
+    .left-mid img {
+        width: 55px;
+    }
+
+    .left-mid {
+        top: 230px;
+        left: 155px;
+    }
+    .bottom img {
+        width: 55px;
+    }
+
+    .bottom {
+        bottom: 97px;
+        left: 169px;
+    }
+
+    .right img {
+        width: 89px;
+    }
+
+    .right {
+        right: 177px;
+        top: 204px;
+    }
+
+    .author-img {
+        overflow: hidden;
+        bottom: -161px;
+    }
+
+
+
+
+    .img-shape-3 {
+        bottom: 142px;
+    }
+
+    .about-me p {
+        line-height: 22px;
+    }
+
+    .about-author-contant .title h2 {
+        line-height: 50px;
+        margin: 15px 0px;
+    }
+
+    .design .section-padding {
+        padding: 90px 0px 0px;
+    }
+
+    .design-right h5 {
+        padding: 18px 0px;
+    }
+
+    .design-right p {
+        line-height: 20px;
+        font-size: 14px;
+    }
+
+    .team-img li a i {
+        margin-right: 2px;
+    }
+
+    .input-group input {
+        padding: 0px 17px;
+    }
+
+    .input-group button {
+        padding: 0px 15px;
+    }
+
+    .active ul.social-icon {
+        left: 34px;
+    }
+
+    ul.social-icon {
+        left: 34px;
+    }
+
+    
+}
+
+/*---- MD Device :768px----- */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .pr-122 {
+        padding-right: 40px;
+    }
+    .pl-122 {
+        padding-left: 32px;
+    }
+
+    .home-left h1 {
+        font-size: 52px;
+        line-height: 53px;
+    }
+
+    .home-left p {
+        font-size: 27px;
+        margin-bottom: 0;
+    }
+
+    .home-left {
+        margin-top: 225px;
+    }
+
+    .author-img {
+        overflow: hidden;
+        bottom: -158px;
+    }
+
+    .top-mid img {
+        width: 85px;
+    }
+
+    .top-mid {
+        top: 75px;
+        left: 340px;
+    }
+
+    .left-mid img {
+        width: 55px;
+    }
+
+    .left-mid {
+        top: 200px;
+        left: 155px;
+    }
+
+    .bottom img {
+        width: 55px;
+    }
+
+    .bottom {
+        bottom: 116px;
+        left: 169px;
+    }
+
+    .right img {
+        width: 85px;
+    }
+
+    .right {
+        right: 140px;
+        top: 256px;
+    }
+
+    .offcanvas-menu {
+        right: -48%;
+    }
+
+
+
+
+    .about-author-contant .title h2 {
+        line-height: 32px;
+        margin: 12px 0px;
+        font-size: 33px;
+    }
+
+    .about-author-contant .title span {
+        color: #9498a9;
+        font-size: 12px;
+    }
+
+    p.author-contant1,
+    p.author-contant2,
+    p.author-contant3{
+        font-size: 13px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+
+    .about-author-img img {
+        padding-right: 0px;
+    }
+
+    .about-img-shape img {
+        width: 70px;
+    }
+
+    .img-shape-3 {
+        bottom: 56px;
+        right: 42px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 14px 30px;
+    }
+
+    .hire {
+        margin-left: 7px;
+    }
+
+    .education-item {
+        margin-top: 115px;
+    }
+
+    .skill-edu-shape img {
+        width: 130px;
+    }
+
+    .skill-edu-shape {
+        left: 40%;
+        bottom: -86px;
+    }
+
+    .team-img li a i {
+        margin-right: -2px;
+    }
+
+    .active ul.social-icon {
+        left: 1px;
+    }
+
+    ul.social-icon {
+        left: 1px;
+    }
+
+    .design .section-padding {
+        padding: 0px;
+    }
+
+    .design-right h5 {
+        font-size: 27px;
+        padding: 8px 0px;
+        line-height: 31px;
+    }
+
+    .design-right p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .user-comment {
+        font-size: 10px;
+    }
+
+    .blog-content h4 a {
+        font-size: 24px;
+    }
+
+    .blog-content p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    a.read {
+        font-size: 15px;
+    }
+
+    .footer-top-menu li a {
+        font-size: 17px;
+    }
+
+    .footer-left .active {
+        font-size: 13px;
+    }
+
+    .input-group button {
+        font-size: 13px;
+    }
+
+    .input-group input {
+        padding: 0px 18px;
+        font-size: 15px;
+    }
+
+    .footer-right {
+        float: right;
+    }
+}
+
+/*---- Extra small Device ----- */
+@media (max-width: 767px) {
+
+    .pr-122 {
+        padding-right: 24px;
+    }
+    .pl-122 {
+        padding-left: 20px;
+    }
+
+    .offcanvas-menu {
+        right: -65%;
+    }
+
+    .home-left h1 {
+        font-size: 39px;
+        line-height: 40px;
+    }
+
+    .home-left p {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .home-left {
+        margin-top: 235px;
+    }
+
+    .author-img {
+        overflow: hidden;
+        bottom: -175px;
+    }
+
+    .top-mid img {
+        width: 70px;
+    }
+
+    .top-mid {
+        top: 65px;
+        left: 185px;
+    }
+
+    .right img {
+        width: 50px;
+    }
+
+    .right {
+        right: 105px;
+        top: 204px;
+    }
+
+    .bottom img {
+        width: 50px;
+    }
+
+    .bottom {
+        bottom: 88px;
+        left: 150px;
+    }
+
+    .left-mid img {
+        width: 50px;
+    }
+
+    .about-author-contant {
+        margin-top: 110px;
+    }
+
+    .education-item {
+        margin-top: 160px;
+    }
+
+    .skill-edu-shape img {
+        width: 120px;
+    }
+
+    .skill-edu-shape {
+        left: 40%;
+        bottom: -86px;
+    }
+
+    .name-list h4 {
+        font-size: 26px;
+    }
+
+    .edu-list {
+        margin-bottom: 113px;
+    }
+
+    .experince-single {
+        margin-bottom: 30px;
+    }
+
+    .services-item h3 {
+        font-size: 28px;
+    }
+
+    .team-single {
+        margin-bottom: 30px;
+    }
+
+    ul.social-icon {
+        left: 90px;
+    }
+
+    .active ul.social-icon {
+        left: 90px;
+    }
+
+    .design-right p {
+        line-height: 25px;
+        font-size: 15px;
+    }
+
+    .contact-shape-2 {
+        top: 40px;
+    }
+
+    .contact-shape-1 {
+        bottom: 351px;
+    }
+
+    .blog-img img {
+        width: 100%;
+        height: 275px;
+    }
+
+    .blog-shape {
+        right: 13px;
+        top: -81px;
+    }
+
+    .user-comment {
+        font-size: 13px;
+    }
+
+    .blog-item {
+        margin-bottom: 30px;
+    }
+
+    .footer-top-menu li a {
+        padding: 8px;
+        font-size: 15px;
+    }
+    
+    .footer img {
+        width: 50%;
+    }
+
+    .sponsor-title {
+        padding: 75px 27px;
+    }
+
+    .item img {
+        padding-right: 30px;
+    }
+}
+
+
+/*---- SM Small Device :550px----- */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    
+
+
+
+
+
+
+
+}
+
+/*---- XSM Small Device :400px----- */
+
+@media (max-width: 575px) {
+
+    .author-img {
+        display: none;
+    }
+
+    .offcanvas-menu {
+        right: -130%;
+    }
+
+    .menu-trigger img {
+        width: 30px;
+    }
+
+    .logo img {
+        width: 60px;
+    }
+
+    .top-mid {
+        top: 44px;
+        left: 80px;
+    }
+
+    .top-mid img {
+        width: 50px;
+    }
+
+    .skills-single {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    .name-list h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .name-list p {
+        line-height: 21px;
+    }
+
+    .edu-list {
+        margin-bottom: 150px;
+    }
+
+    .portfolio-list li {
+        padding: 2px;
+        margin: 6px;
+    }
+
+    .services .btn {
+        float: none;
+    }
+
+    .active ul.social-icon {
+        left: 60px;
+    }
+
+    ul.social-icon {
+        left: 60px;
+    }
+
+    .design .section-padding {
+        padding: 90px 20px 50px;
+    }
+
+    .author-inf h6 {
+        line-height: 11px;
+    }
+
+    .contact .title h2 {
+        line-height: 60.5px;
+    }
+
+    .sponsor-title {
+        padding: 75px 21px;
+    }
+
+    .blog-shape img {
+        width: 58%;
+    }
+
+    .blog .title h2 {
+        line-height: 60.5px;
+    }
+
+    .footer img {
+        width:65%;
+    }
+
+    .footer-top-menu li a {
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    .input-group input {
+        font-size: 13px;
+    }
+
+    .input-group button {
+        font-size: 13px;
+    }
+
+    .item img {
+        padding-right: 49px;
+    }
+
+}
+
+/*---- XXSM Small Device :280px----- */
+
+@media only screen and (min-width: 280px) and (max-width: 399px) {
+    .active ul.social-icon {
+        left: 15px;
+    }
+
+    ul.social-icon {
+        left: 15px;
+    }
+
+    .team-img li a i {
+        margin-right: 3px;
+    }
+
+    .sponsor-title {
+        padding: 75px 38px;
+    }
+
+    .input-group button {
+        padding: 15px 30px;
+    }
+
+    .hire {
+        margin-left: 0px;
+    }
+
+    .item img {
+        padding-right: 45px;
+    }
+
+    .contact-shape-1 {
+        bottom: 308px;
+    }
+
+    .dse-quality span {
+        font-size: 13px;
+    }
+
+    .contact-shape-2 {
+        top: 9px;
+    }
+}
